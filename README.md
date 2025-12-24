@@ -1,18 +1,52 @@
-# React + Vite
+# EventEase 🎉
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EventEase is a simple and modern event management UI that allows users to explore events, create event pages, and register easily.  
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌐 Live Preview
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+🔗 https://your-live-link-here.vercel.app
 
-Note: This will impact Vite dev & build performances.
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Homepage
+![Homepage](./screenshots/homepage.png)
+
+### Events Page
+![Events](./screenshots/events.png)
+
+### Create Event
+![Create Event](./screenshots/create.png)
+
+### Registrations
+![Registrations](./screenshots/register.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React (Vite)
+- **Styling:** CSS / Tailwind CSS
+- **Icons:** Lucide / Heroicons
+- **Deployment:** Vercel
+
+---
+
+## 📂 Project Structure
+
+```bash
+eventease-ui/
+├── public/
+├── screenshots/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   └── assets/
+├── README.md
+├── index.html
+├── package.json
+└── vite.config.js
