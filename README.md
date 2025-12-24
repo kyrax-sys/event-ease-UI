@@ -36,6 +36,17 @@ EventEase is a simple and modern event management UI that allows users to explor
 
 ---
 
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+```bash
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
 ## 📂 Project Structure
 
 ```bash
@@ -50,3 +61,8 @@ eventease-ui/
 ├── index.html
 ├── package.json
 └── vite.config.js
+
+
+
+
+
