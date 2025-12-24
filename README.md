@@ -7,7 +7,7 @@ EventEase is a simple and modern event management UI that allows users to explor
 
 ## 🌐 Live Preview
 
-🔗 [https://your-live-link-here.vercel.app](https://event-ease-ui.vercel.app/)
+🔗 [Check Live](https://event-ease-ui.vercel.app/)
 
 ---
 
