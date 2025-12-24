@@ -14,7 +14,7 @@ EventEase is a simple and modern event management UI that allows users to explor
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](./screenshots/home page.png)
 
 ### Events Page
 ![Events](./screenshots/events.png)
